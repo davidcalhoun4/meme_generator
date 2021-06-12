@@ -1,4 +1,8 @@
 # Meme Generator
+
+Deployed App:
+https://memesarefun.netlify.app/
+
 Meme generator was created as my first React project. You are able to create memes that have a photo, top text and bottom text. The photos are randomized. The top text and bottom text are inserted into the input fields for you, from fetching https://official-joke-api.appspot.com/random_joke . I wanted to use a joke api to practice changing the state of top and bottom text. You do have the option to insert your own text. 
 
 Memes can be saved, and will be stored in local storage. Something I would like to do different next is attaching this app to a backend and saving the memes to a database. 
