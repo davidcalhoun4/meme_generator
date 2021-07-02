@@ -84,7 +84,7 @@ class MemeGenerator extends Component {
             style={buttonStyle}
           />
           <button onClick={this.handleClick} style={buttonStyle}>
-            Gen
+            New
           </button>
           <button onClick={this.save} style={buttonStyle}>
             Save Meme
